@@ -16,7 +16,7 @@ export default function MyApp() {
             <div className="image-container">
                 <Challenge3/>
             </div>
-            <div>
+            <div className="head">
                 <Challenge4/>
             </div>
         </div>
